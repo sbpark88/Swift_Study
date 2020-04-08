@@ -322,3 +322,4 @@ var namedTestTuple9_1 = (addr:"Bucheon",phone:"010-4455-3215",coin:23498)
 print(namedTestTuple9_1)           // 결과 : (addr: "Bucheon", phone: "010-4455-3215", coin: 23498)
 print(namedTestTuple9_1.addr)    // 결과 : Bucheon
 print(namedTestTuple9_1.0)        // 결과 : Bucheon  위에랑 같지만 숫자로 쓰는건 지양하자. 가독성이 떨어져 유지보수에 불리하다.
+
