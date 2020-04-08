@@ -110,4 +110,3 @@ func arraySum (arrayName: [Int]) -> (Int) { // Step 1.1 배열 자체를 입력 
         
 }
 print(arraySum(arrayName: intArray))    // 답 : 12751
-
